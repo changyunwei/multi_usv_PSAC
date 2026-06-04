@@ -1,6 +1,6 @@
 # PSAC-MATD3
 
-Reviewer source code for the PSAC-MATD3 pursuit-encirclement experiments. The package includes the training and evaluation entry points, pursuit-evasion environment, MATD3 agents, reward/CBF/HPER/ARM components, and default configuration files.
+Ssource code for the PSAC-MATD3 pursuit-encirclement experiments. The package includes the training and evaluation entry points, pursuit-evasion environment, MATD3 agents, reward/CBF/HPER/ARM components, and default configuration files.
 
 ## Requirements
 
