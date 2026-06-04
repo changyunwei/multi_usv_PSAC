@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Training outputs and checkpoints
+results/
+runs/
+logs/
+checkpoints/
+latest/
+*.ckpt*
+*.data-*-of-*
+*.index
+*.meta
+checkpoint
+configs/local*.json
+
+# Generated figures and experiment tables
+figures/
+trajectories/
+*.png
+*.pdf
+*.csv
+*.xlsx
+
+# Keep source assets under resources/
+!resources/*.png
+!resources/*.wav
